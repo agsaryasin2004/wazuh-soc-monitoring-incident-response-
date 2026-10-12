@@ -65,4 +65,4 @@ These images were extracted from the completed Wazuh project report and retain t
 11. Scenario 3 — Event ID 4688 details
 12. Scenario 3 — expanded custom-rule alert details
 
-Before publishing, inspect each image for personal details or environment information you do not want public. These are supporting screenshots, not a replacement for the full report.
+
